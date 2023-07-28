@@ -7,7 +7,7 @@ My Own personal Portfolio written using React. You could view my bio, my project
 ![Screenshot of React app landing page](React.png)
 
 ## Deployed link: 
-https://react-portfolio-six-zeta.vercel.app/
+https://portfolio-6kb8phzuf-afang911.vercel.app/
 
 ## Contact:
-Feel free to reach out @p.hoang6897@yahoo.com
+Feel free to reach out fanger_austin@yahoo.com
